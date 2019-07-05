@@ -1,0 +1,1286 @@
+Mutated Example by RC:
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by RC:
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by RC:
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by RC:
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies c
+not a or b
+Alpha: * a and not b
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies c
+not a or b
+Alpha: * a and not b
+
+Mutated Example by RC:
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by RC:
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies c
+not a or b
+Alpha: * a and not b
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies c
+not a or b
+Alpha: * a and not b
+
+Mutated Example by RC:
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by RC:
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies c
+not a or b
+Alpha: * a and not b
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies c
+not a or b
+Alpha: * a and not b
+
+Mutated Example by RC:
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by RC:
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;27;9;5;4;2.0
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by RL:
+a
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;57;19;11;8;2.6666666666666665
+a or not a
+(a implies c) or not a
+not(a and not b) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a or not a
+a implies c
+not(a and not b)
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a or not a
+a implies c
+not(a and not b)
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a or not a
+a implies c
+not(a and not b)
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+true
+a implies c
+not a or b
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+true
+a implies c
+not a or b
+Alpha: + not a
+
+Mutated Example by RL:
+a implies b
+a
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;57;19;11;8;2.6666666666666665
+(a implies b) or not a
+a or not a
+not(a and not c) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+a implies b
+true
+not a or c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+a implies b
+true
+not a or c
+Alpha: + not a
+
+Mutated Example by RL:
+a implies b
+a
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;57;19;11;8;2.6666666666666665
+(a implies b) or not a
+a or not a
+not(a and not c) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+a implies b
+true
+not a or c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+a implies b
+true
+not a or c
+Alpha: + not a
+
+Mutated Example by RL:
+a implies b
+a
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;57;19;11;8;2.6666666666666665
+(a implies b) or not a
+a or not a
+not(a and not c) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a implies b
+a or not a
+not(a and not c)
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+a implies b
+true
+not a or c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+a implies b
+true
+not a or c
+Alpha: + not a
+
+Mutated Example by RL:
+b
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;32;11;6;5;2.5
+b or not a
+(a implies c) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+not a or b
+a implies c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+not a or b
+a implies c
+Alpha: + not a
+
+Mutated Example by RL:
+a implies b
+c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;32;11;6;5;2.5
+(a implies b) or not a
+c or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+c or not a
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+c or not a
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+c or not a
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: + not a
+
+Mutated Example by RL:
+b
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;32;11;6;5;2.5
+b or not a
+(a implies c) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+not a or b
+a implies c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+not a or b
+a implies c
+Alpha: + not a
+
+Mutated Example by RL:
+a
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;57;19;11;8;2.6666666666666665
+a or not a
+(a implies c) or not a
+not(a and not b) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a or not a
+a implies c
+not(a and not b)
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a or not a
+a implies c
+not(a and not b)
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;37;13;7;6;2.0
+a or not a
+a implies c
+not(a and not b)
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+true
+a implies c
+not a or b
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 2 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;25;9;4;5;1.6666666666666667
+true
+a implies c
+not a or b
+Alpha: + not a
+
+Mutated Example by RL:
+a implies b
+c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;32;11;6;5;2.5
+(a implies b) or not a
+c or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+c or not a
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+c or not a
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+c or not a
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+a implies b
+not a or c
+Alpha: + not a
+
+Mutated Example by RL:
+b
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;32;11;6;5;2.5
+b or not a
+(a implies c) or not a
+Alpha: + not a
+
+Repaired Example with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+b or not a
+a implies c
+Alpha: + not a
+
+Repaired Example with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+not a or b
+a implies c
+Alpha: + not a
+
+Repaired Example with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;21;8;4;4;2.0
+not a or b
+a implies c
+Alpha: + not a
+
+Mutated Example by SL:
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with onlySelection, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with ATGT, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Espresso, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with JBool, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with QM, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Mutated Example by SL:
+a implies c
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies c
+a implies c
+not a or b
+Alpha: * a and not b
+
+Repaired Example with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies c
+a implies c
+not a or b
+Alpha: * a and not b
+
+Mutated Example by SL:
+a implies b
+c implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+c implies c
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+c implies c
+not a or c
+Alpha: * a and not c
+
+Mutated Example by SL:
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with onlySelection, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with ATGT, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Espresso, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with JBool, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with QM, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Mutated Example by SL:
+a implies b
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by SL:
+a implies c
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies c
+a implies c
+not(a and not b)
+Alpha: * a and not b
+
+Repaired Example with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies c
+a implies c
+not a or b
+Alpha: * a and not b
+
+Repaired Example with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies c
+a implies c
+not a or b
+Alpha: * a and not b
+
+Mutated Example by SL:
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with onlySelection, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with ATGT, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Espresso, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with JBool, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with QM, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Mutated Example by SL:
+a implies b
+c implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+c implies c
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+c implies c
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+c implies c
+not a or c
+Alpha: * a and not c
+
+Mutated Example by SL:
+a implies b
+a implies b
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;38;12;6;6;2.0
+a implies b
+a implies b
+not(a and not c)
+Alpha: * a and not c
+
+Repaired Example with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+a implies b
+not a or c
+Alpha: * a and not c
+
+Repaired Example with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 3;32;11;5;6;2.0
+a implies b
+a implies b
+not a or c
+Alpha: * a and not c
+
+Mutated Example by SL:
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Naive, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with onlySelection, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with ATGT, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with Espresso, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with JBool, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+
+Repaired Example with QM, mutated by SL in 0 steps.
+StatsOriginal: 2;22;7;3;4;2.0 StatsRepaired: 2;22;7;3;4;2.0
+a implies b
+a implies c
+Alpha: * null
+

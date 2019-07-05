@@ -1,0 +1,8 @@
+step,method,type,flit,feat,lit,op,chars,lev,simpl
+0,Naive,AND,4,5,10,9,101,8.0,-4.0
+0,atgt,AND,4,4,6,7,71,6.0,-1.0
+0,espresso,AND,4,4,9,11,100,10.0,-1.0
+0,jbool,AND,4,4,6,8,70,7.0,-1.0
+0,kmkeencnf,AND,4,4,6,8,70,8.0,-1.0
+0,qm,AND,4,4,6,8,70,6.0,-1.0
+0,best,AND,4,5,10,9,105,8.0,-1.0

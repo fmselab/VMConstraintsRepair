@@ -1,0 +1,4 @@
+step,mutation,steps,method,type,flit,feat,lit,op,chars,BFED,BFCD,timeSelection,timeSimplification
+0,OnlySelec,AND,1,8756,0,46169,439765,-1,-1,1192314226,134655,0
+1,OnlySelec,AND,1,8756,0,46171,439776,-1,-1,615990988,91113,0
+2,OnlySelec,AND,1,8756,0,46171,439776,-1,-1,615990988,91113,0

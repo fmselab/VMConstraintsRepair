@@ -1,0 +1,14 @@
+Model LibSSH
+
+Parameters:
+	Boolean WITH_EXAMPLES;
+	Boolean WITH_NACL;
+	Boolean WITH_BENCHMARKS;
+	Boolean WITH_TESTING;
+	Boolean WITH_STATIC_LIB;
+end
+Constraints:
+// remove a constraint
+//	# WITH_BENCHMARKS => WITH_TESTING #
+	# WITH_TESTING => WITH_STATIC_LIB #
+end

@@ -1,0 +1,5 @@
+A => D
+(A and B) => E
+E => C
+
++ A and B and !C

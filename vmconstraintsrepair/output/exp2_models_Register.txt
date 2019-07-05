@@ -1,0 +1,1286 @@
+Mutated Register by RC:
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Mutated Register by RC:
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Mutated Register by RC:
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Mutated Register by RC:
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Mutated Register by RC:
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Mutated Register by RC:
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Mutated Register by RC:
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Mutated Register by RC:
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Mutated Register by RC:
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Mutated Register by RC:
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: * null
+
+Repaired Register with Naive, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;68;11;6;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RC in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Mutated Register by RL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;85;13;7;6;3.0
+((SELF_CHECKOUT and NEW) implies CREDIT) or not SELF_CHECKOUT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by RL:
+SELF_CHECKOUT implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;99;17;9;8;4.0
+(SELF_CHECKOUT implies CREDIT) or (not NEW and NOK)
+(SELF_CHECKOUT implies NOK) or (not NEW and NOK)
+Alpha: + not NEW and NOK
+
+Repaired Register with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;76;12;6;6;3.0
+(SELF_CHECKOUT implies CREDIT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;76;12;6;6;3.0
+(SELF_CHECKOUT implies CREDIT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;75;13;7;6;3.0
+(not SELF_CHECKOUT or CREDIT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;75;13;7;6;3.0
+(not SELF_CHECKOUT or (not NEW and NOK)) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;75;13;7;6;3.0
+((not NEW and NOK) or not SELF_CHECKOUT) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Mutated Register by RL:
+SELF_CHECKOUT and NEW
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;225;38;22;16;5.333333333333333
+((SELF_CHECKOUT and NEW) or not SELF_CHECKOUT) or (not NEW and NOK)
+((SELF_CHECKOUT implies NOK) or not SELF_CHECKOUT) or (not NEW and NOK)
+(not((not CREDIT and NEW) and SELF_CHECKOUT) or not SELF_CHECKOUT) or (not NEW and NOK)
+Alpha: + not NEW and NOK
+
+Repaired Register with onlySelection, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;135;22;12;10;3.3333333333333335
+((SELF_CHECKOUT and NEW) or not SELF_CHECKOUT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with ATGT, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;101;17;9;8;2.6666666666666665
+(NEW or not SELF_CHECKOUT) or NOK
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with Espresso, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;135;22;12;10;3.3333333333333335
+((SELF_CHECKOUT and NEW) or not SELF_CHECKOUT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with JBool, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;101;17;9;8;2.6666666666666665
+(not SELF_CHECKOUT or NEW) or NOK
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with QM, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;98;17;9;8;2.6666666666666665
+(not SELF_CHECKOUT or NOK) or NEW
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: + not NEW and NOK
+
+Mutated Register by RL:
+NEW implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;89;13;7;6;3.0
+(NEW implies CREDIT) or not SELF_CHECKOUT
+(SELF_CHECKOUT implies NOK) or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;66;10;5;5;2.5
+(NEW implies CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;66;10;5;5;2.5
+(NEW implies CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+(not NEW or CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+(not NEW or not SELF_CHECKOUT) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+(not SELF_CHECKOUT or not NEW) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by RL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;85;13;7;6;3.0
+((SELF_CHECKOUT and NEW) implies CREDIT) or not SELF_CHECKOUT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by RL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;146;21;12;9;3.0
+((SELF_CHECKOUT and NEW) implies CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT) or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;15;8;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;15;8;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;15;8;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;66;11;5;6;2.0
+(SELF_CHECKOUT and NEW) implies CREDIT
+true
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;66;11;5;6;2.0
+(SELF_CHECKOUT and NEW) implies CREDIT
+true
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by RL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;85;13;7;6;3.0
+((SELF_CHECKOUT and NEW) implies CREDIT) or not SELF_CHECKOUT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;62;10;5;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by RL:
+NEW implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;89;13;7;6;3.0
+(NEW implies CREDIT) or not SELF_CHECKOUT
+(SELF_CHECKOUT implies NOK) or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;66;10;5;5;2.5
+(NEW implies CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;66;10;5;5;2.5
+(NEW implies CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+(not NEW or CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+(not NEW or not SELF_CHECKOUT) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;65;11;6;5;2.5
+(not SELF_CHECKOUT or not NEW) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by RL:
+SELF_CHECKOUT and NEW
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;225;38;22;16;5.333333333333333
+((SELF_CHECKOUT and NEW) or not SELF_CHECKOUT) or (not NEW and NOK)
+((SELF_CHECKOUT implies NOK) or not SELF_CHECKOUT) or (not NEW and NOK)
+(not((not CREDIT and NEW) and SELF_CHECKOUT) or not SELF_CHECKOUT) or (not NEW and NOK)
+Alpha: + not NEW and NOK
+
+Repaired Register with onlySelection, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;135;22;12;10;3.3333333333333335
+((SELF_CHECKOUT and NEW) or not SELF_CHECKOUT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with ATGT, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;101;17;9;8;2.6666666666666665
+(NEW or not SELF_CHECKOUT) or NOK
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with Espresso, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;135;22;12;10;3.3333333333333335
+((SELF_CHECKOUT and NEW) or not SELF_CHECKOUT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with JBool, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;101;17;9;8;2.6666666666666665
+(not SELF_CHECKOUT or NEW) or NOK
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with QM, mutated by RL in 3 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;98;17;9;8;2.6666666666666665
+(not SELF_CHECKOUT or NOK) or NEW
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: + not NEW and NOK
+
+Mutated Register by RL:
+SELF_CHECKOUT implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;99;17;9;8;4.0
+(SELF_CHECKOUT implies CREDIT) or (not NEW and NOK)
+(SELF_CHECKOUT implies NOK) or (not NEW and NOK)
+Alpha: + not NEW and NOK
+
+Repaired Register with onlySelection, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;76;12;6;6;3.0
+(SELF_CHECKOUT implies CREDIT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with ATGT, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;76;12;6;6;3.0
+(SELF_CHECKOUT implies CREDIT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with Espresso, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;75;13;7;6;3.0
+(not SELF_CHECKOUT or CREDIT) or (not NEW and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with JBool, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;75;13;7;6;3.0
+(not SELF_CHECKOUT or (not NEW and NOK)) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with QM, mutated by RL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;75;13;7;6;3.0
+((not NEW and NOK) or not SELF_CHECKOUT) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not NEW and NOK
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+CREDIT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;153;23;13;10;3.3333333333333335
+((SELF_CHECKOUT and NEW) implies CREDIT) or not SELF_CHECKOUT
+(CREDIT implies NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT) or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;109;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(CREDIT implies NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;109;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(CREDIT implies NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;108;18;10;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not CREDIT or NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not CREDIT or not SELF_CHECKOUT) or NOK
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or not CREDIT) or NOK
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by SL:
+(NOK and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;99;15;8;7;3.5
+((NOK and NEW) implies CREDIT) or not SELF_CHECKOUT
+(SELF_CHECKOUT implies NOK) or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;76;12;6;6;3.0
+((NOK and NEW) implies CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;76;12;6;6;3.0
+((NOK and NEW) implies CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;74;13;7;6;3.0
+(not(NOK and NEW) or CREDIT) or not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;74;13;7;6;3.0
+(not(NEW and NOK) or not SELF_CHECKOUT) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;78;14;8;6;3.0
+((not SELF_CHECKOUT or not NEW) or not NOK) or CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+CREDIT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;153;23;13;10;3.3333333333333335
+((SELF_CHECKOUT and NEW) implies CREDIT) or not SELF_CHECKOUT
+(CREDIT implies NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT) or not SELF_CHECKOUT
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;109;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(CREDIT implies NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;109;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(CREDIT implies NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;108;18;10;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not CREDIT or NOK) or not SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not CREDIT or not SELF_CHECKOUT) or NOK
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Repaired Register with QM, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;17;9;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or not CREDIT) or NOK
+not SELF_CHECKOUT or NOK
+Alpha: + not SELF_CHECKOUT
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NEW
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;160;29;16;13;4.333333333333333
+((SELF_CHECKOUT and NEW) implies CREDIT) or (not NEW and NOK)
+(SELF_CHECKOUT implies NEW) or (not NEW and NOK)
+not(not NOK and SELF_CHECKOUT) or (not NEW and NOK)
+Alpha: + not NEW and NOK
+
+Repaired Register with onlySelection, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;116;19;10;9;3.0
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NEW) or (not NEW and NOK)
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with ATGT, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;16;8;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NEW) or NOK
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with Espresso, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;115;20;11;9;3.0
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or NEW) or (not NEW and NOK)
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with JBool, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;95;16;8;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or NEW) or NOK
+not SELF_CHECKOUT or NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with QM, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;95;16;8;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or NOK) or NEW
+not SELF_CHECKOUT or NOK
+Alpha: + not NEW and NOK
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;83;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK implies NOK
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;83;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK implies NOK
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;83;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK implies NOK
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;83;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK implies NOK
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;77;13;6;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK implies NOK
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;77;13;6;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+NOK implies NOK
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 0 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;63;9;4;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with onlySelection, mutated by SL in 0 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;63;9;4;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with ATGT, mutated by SL in 0 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;63;9;4;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Espresso, mutated by SL in 0 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;63;9;4;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with JBool, mutated by SL in 0 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;63;9;4;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with QM, mutated by SL in 0 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 2;63;9;4;5;2.5
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NEW
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;160;29;16;13;4.333333333333333
+((SELF_CHECKOUT and NEW) implies CREDIT) or (not NEW and NOK)
+(SELF_CHECKOUT implies NEW) or (not NEW and NOK)
+not(not NOK and SELF_CHECKOUT) or (not NEW and NOK)
+Alpha: + not NEW and NOK
+
+Repaired Register with onlySelection, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;116;19;10;9;3.0
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NEW) or (not NEW and NOK)
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with ATGT, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;102;16;8;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NEW) or NOK
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with Espresso, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;115;20;11;9;3.0
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or NEW) or (not NEW and NOK)
+not(not NOK and SELF_CHECKOUT)
+Alpha: + not NEW and NOK
+
+Repaired Register with JBool, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;95;16;8;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or NEW) or NOK
+not SELF_CHECKOUT or NOK
+Alpha: + not NEW and NOK
+
+Repaired Register with QM, mutated by SL in 2 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;95;16;8;8;2.6666666666666665
+(SELF_CHECKOUT and NEW) implies CREDIT
+(not SELF_CHECKOUT or NOK) or NEW
+not SELF_CHECKOUT or NOK
+Alpha: + not NEW and NOK
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;97;13;6;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;97;13;6;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Mutated Register by SL:
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;103;14;7;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not(not NOK and SELF_CHECKOUT)
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;97;13;6;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;97;13;6;7;2.3333333333333335
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies SELF_CHECKOUT
+not SELF_CHECKOUT or NOK
+Alpha: * not NOK and SELF_CHECKOUT
+
+Mutated Register by SL:
+(CREDIT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+Repaired Register with Naive, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;99;16;8;8;2.6666666666666665
+(CREDIT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;99;16;8;8;2.6666666666666665
+(CREDIT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;99;16;8;8;2.6666666666666665
+(CREDIT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;99;16;8;8;2.6666666666666665
+(CREDIT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with JBool, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;99;16;8;8;2.6666666666666665
+(CREDIT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+not((not CREDIT and NEW) and SELF_CHECKOUT)
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+
+Repaired Register with QM, mutated by SL in 1 steps.
+StatsOriginal: 2;63;9;4;5;2.5 StatsRepaired: 3;96;16;8;8;2.6666666666666665
+(CREDIT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+(not SELF_CHECKOUT or not NEW) or CREDIT
+Alpha: * (not CREDIT and NEW) and SELF_CHECKOUT
+

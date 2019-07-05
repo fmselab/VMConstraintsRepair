@@ -1,0 +1,25 @@
+Model LibSSH
+
+Parameters:
+	Boolean WITH_GSSAPI;
+	Boolean WITH_ZLIB;
+	Boolean WITH_SSH1;
+	Boolean WITH_SFTP;
+	Boolean WITH_SERVER;
+	Boolean WITH_DEBUG_CRYPTO;
+	Boolean WITH_DEBUG_CALLTRACE;
+	Boolean WITH_GCRYPT;
+	Boolean WITH_PCAP;
+	Boolean WITH_INTERNAL_DOC;
+	Boolean WITH_CLIENT_TESTING;
+	Boolean WITH_EXAMPLES;
+	Boolean WITH_NACL;
+	Boolean WITH_BENCHMARKS;
+	Boolean WITH_TESTING;
+	Boolean WITH_STATIC_LIB;
+end
+Constraints:
+	# WITH_BENCHMARKS => WITH_TESTING #
+	# WITH_TESTING => WITH_STATIC_LIB #
+	# WITH_GSSAPI==false #
+end

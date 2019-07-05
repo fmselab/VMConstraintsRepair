@@ -1,0 +1,1826 @@
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: * SECURE_SSL_REDIRECT
+
+Repaired Django with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: * SECURE_SSL_REDIRECT
+
+Repaired Django with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: * SECURE_SSL_REDIRECT
+
+Repaired Django with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: * SECURE_SSL_REDIRECT
+
+Repaired Django with JBool, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: * SECURE_SSL_REDIRECT
+
+Repaired Django with QM, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: * SECURE_SSL_REDIRECT
+
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RC:
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with JBool, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;181;27;15;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+DEBUG or LOCALHOSTIP
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with QM, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;181;27;15;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+DEBUG or LOCALHOSTIP
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with onlySelection, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with ATGT, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with Espresso, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;195;30;18;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with JBool, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;181;27;15;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+DEBUG or LOCALHOSTIP
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Repaired Django with QM, mutated by RC in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;181;27;15;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+DEBUG or LOCALHOSTIP
+Alpha: * not LOCALHOSTIP and not DEBUG
+
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RC:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RC:
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RC in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 4;144;21;12;9;2.25
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+not LOCALHOST and not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;1325;191;120;71;14.2
+(((LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((not LOCALHOST and not LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+((not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((not DEBUG implies LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with onlySelection, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;407;59;36;23;4.6
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+(((not LOCALHOST and not LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with ATGT, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;333;48;29;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+((not LOCALHOST and not LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with Espresso, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;407;59;36;23;4.6
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+(((not LOCALHOST and not LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with JBool, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;373;55;34;21;4.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+(((((not IP or not LOCALHOST) and (not IP or not LOCALHOSTIP)) and (not LOCALHOST or not LOCALHOSTIP)) and (not LOCALHOST or not SECURE_SSL_REDIRECT)) and (not LOCALHOST or DEBUG)) and (not LOCALHOSTIP or not SECURE_SSL_REDIRECT)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with QM, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;315;46;28;18;3.6
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and DEBUG) and not IP) or ((not SECURE_SSL_REDIRECT and not LOCALHOST) and not IP)) or (not LOCALHOSTIP and not LOCALHOST)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Mutated Django by RL:
+LOCALHOST implies not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;168;25;14;11;2.2
+LOCALHOST implies not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;168;25;14;11;2.2
+LOCALHOST implies not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;168;25;14;11;2.2
+LOCALHOST implies not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;168;25;14;11;2.2
+LOCALHOST implies not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;168;25;14;11;2.2
+LOCALHOST implies not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;168;25;14;11;2.2
+LOCALHOST implies not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 4 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;1596;230;145;85;14.166666666666666
+(((LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((not DEBUG or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((not(not LOCALHOSTIP and not DEBUG) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with onlySelection, mutated by RL in 4 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;435;65;40;25;4.166666666666667
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+((not DEBUG or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with ATGT, mutated by RL in 4 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;399;59;37;22;3.6666666666666665
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+((not DEBUG or ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP)) or ((not LOCALHOST and not SECURE_SSL_REDIRECT) and not IP)) or ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT)
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with Espresso, mutated by RL in 4 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;435;65;40;25;4.166666666666667
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+((not DEBUG or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not(not LOCALHOSTIP and not DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with JBool, mutated by RL in 4 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;384;58;35;23;3.8333333333333335
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG) or (((not DEBUG or not IP) and ((not DEBUG or not LOCALHOST) or not LOCALHOSTIP)) and (not DEBUG or not SECURE_SSL_REDIRECT))
+DEBUG or LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with QM, mutated by RL in 4 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;385;56;34;22;3.6666666666666665
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not LOCALHOST) or ((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not IP)) or ((not SECURE_SSL_REDIRECT and not LOCALHOST) and not IP)) or not DEBUG
+DEBUG or LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Mutated Django by RL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;170;25;14;11;2.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;170;25;14;11;2.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;170;25;14;11;2.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;170;25;14;11;2.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;170;25;14;11;2.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;170;25;14;11;2.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies not LOCALHOSTIP
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;963;135;84;51;10.2
+((LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(LOCALHOSTIP or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;329;47;28;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(LOCALHOSTIP or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;41;24;17;3.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(LOCALHOSTIP or ((not SECURE_SSL_REDIRECT and DEBUG) and not IP)) or ((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;329;47;28;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(LOCALHOSTIP or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with JBool, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;277;40;23;17;3.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(((not IP or not LOCALHOST) or LOCALHOSTIP) and (not SECURE_SSL_REDIRECT or LOCALHOSTIP)) and (DEBUG or LOCALHOSTIP)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with QM, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;41;24;17;3.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(((not SECURE_SSL_REDIRECT and not LOCALHOST) and DEBUG) or ((not SECURE_SSL_REDIRECT and DEBUG) and not IP)) or LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Mutated Django by RL:
+LOCALHOST implies not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;177;25;14;11;2.2
+LOCALHOST implies not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;177;25;14;11;2.2
+LOCALHOST implies not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;177;25;14;11;2.2
+LOCALHOST implies not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;177;25;14;11;2.2
+LOCALHOST implies not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;177;25;14;11;2.2
+LOCALHOST implies not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by RL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;177;25;14;11;2.2
+LOCALHOST implies not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by RL:
+not IP and not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;1353;191;120;71;14.2
+(((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+((not SECURE_SSL_REDIRECT or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((not DEBUG implies LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with onlySelection, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;407;59;36;23;4.6
+(((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with ATGT, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;333;48;29;19;3.8
+((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with Espresso, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;407;59;36;23;4.6
+(((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with JBool, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;359;55;34;21;4.2
+(((((not IP or not LOCALHOST) and (not IP or not LOCALHOSTIP)) and (not IP or not SECURE_SSL_REDIRECT)) and (not IP or DEBUG)) and (not LOCALHOST or not LOCALHOSTIP)) and (not LOCALHOSTIP or not SECURE_SSL_REDIRECT)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with QM, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;315;46;28;18;3.6
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not LOCALHOST) and DEBUG) or ((not SECURE_SSL_REDIRECT and not LOCALHOST) and not IP)) or (not LOCALHOSTIP and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Mutated Django by RL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;963;135;84;51;10.2
+((LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(LOCALHOSTIP or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;329;47;28;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(LOCALHOSTIP or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;41;24;17;3.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(LOCALHOSTIP or ((not SECURE_SSL_REDIRECT and DEBUG) and not IP)) or ((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;329;47;28;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(LOCALHOSTIP or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with JBool, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;277;40;23;17;3.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(((not IP or not LOCALHOST) or LOCALHOSTIP) and (not SECURE_SSL_REDIRECT or LOCALHOSTIP)) and (DEBUG or LOCALHOSTIP)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with QM, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;41;24;17;3.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+(((not SECURE_SSL_REDIRECT and not LOCALHOST) and DEBUG) or ((not SECURE_SSL_REDIRECT and DEBUG) and not IP)) or LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Mutated Django by RL:
+not IP and not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;1353;191;120;71;14.2
+(((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+((not SECURE_SSL_REDIRECT or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(((not DEBUG implies LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with onlySelection, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;407;59;36;23;4.6
+(((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with ATGT, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;333;48;29;19;3.8
+((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with Espresso, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;407;59;36;23;4.6
+(((not IP and not LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with JBool, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;359;55;34;21;4.2
+(((((not IP or not LOCALHOST) and (not IP or not LOCALHOSTIP)) and (not IP or not SECURE_SSL_REDIRECT)) and (not IP or DEBUG)) and (not LOCALHOST or not LOCALHOSTIP)) and (not LOCALHOSTIP or not SECURE_SSL_REDIRECT)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with QM, mutated by RL in 3 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;315;46;28;18;3.6
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not LOCALHOST) and DEBUG) or ((not SECURE_SSL_REDIRECT and not LOCALHOST) and not IP)) or (not LOCALHOSTIP and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Mutated Django by RL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+not IP and not LOCALHOST
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;961;136;85;51;10.2
+((LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((not IP and not LOCALHOST) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+((not DEBUG implies LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with onlySelection, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;327;48;29;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+((not IP and not LOCALHOST) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with ATGT, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;327;48;29;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+((not IP and not LOCALHOST) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with Espresso, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;327;48;29;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+((not IP and not LOCALHOST) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and DEBUG) and not IP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with JBool, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;327;48;29;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+((not IP and not LOCALHOST) or (((not IP and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with QM, mutated by RL in 2 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;327;48;29;19;3.8
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not LOCALHOST) and DEBUG) or (((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and DEBUG) and not IP)) or (not LOCALHOST and not IP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Mutated Django by SL:
+LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;587;83;51;32;6.4
+(LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(not DEBUG implies LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;39;23;16;3.2
+(LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;39;23;16;3.2
+(LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;284;40;24;16;3.2
+(not LOCALHOST or (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with JBool, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;284;40;24;16;3.2
+(not LOCALHOST or (((not IP and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with QM, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;284;40;24;16;3.2
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and DEBUG) and not IP) or (not SECURE_HSTS_INCLUDE_SUBDOMAINS and not IP)) or not LOCALHOST
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Mutated Django by SL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;190;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by SL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not SECURE_SSL_REDIRECT and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;207;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not SECURE_SSL_REDIRECT and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with onlySelection, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;207;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not SECURE_SSL_REDIRECT and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with ATGT, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;207;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not SECURE_SSL_REDIRECT and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Espresso, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;207;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not SECURE_SSL_REDIRECT and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with JBool, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;207;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not SECURE_SSL_REDIRECT and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with QM, mutated by SL in 0 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;207;28;16;12;2.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not SECURE_SSL_REDIRECT and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Mutated Django by SL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not PREPEND_WWW
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;2079;294;185;109;18.166666666666668
+((((LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+((((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+((((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(((not PREPEND_WWW or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+((((not DEBUG implies LOCALHOSTIP) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(((not SECURE_SSL_REDIRECT or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with onlySelection, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;516;74;45;29;4.833333333333333
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((not PREPEND_WWW or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with ATGT, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;442;63;38;25;4.166666666666667
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+((not PREPEND_WWW or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with Espresso, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;516;74;45;29;4.833333333333333
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((not PREPEND_WWW or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with JBool, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;516;74;45;29;4.833333333333333
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((not PREPEND_WWW or (((not IP and not LOCALHOST) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not IP and not LOCALHOST) and not SECURE_SSL_REDIRECT) and LOCALHOSTIP)) or (((not IP and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG
+
+Repaired Django with QM, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;442;63;38;25;4.166666666666667
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not LOCALHOST) and DEBUG) or (((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and DEBUG) and not IP)) or (((not SECURE_SSL_REDIRECT and LOCALHOSTIP) and not LOCALHOST) and not IP)) or not PREPEND_WWW
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG
+
+Mutated Django by SL:
+LOCALHOSTIP implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;590;83;51;32;6.4
+(LOCALHOSTIP implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+not SECURE_SSL_REDIRECT or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+(not DEBUG implies LOCALHOSTIP) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;272;39;23;16;3.2
+(LOCALHOSTIP implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;237;34;20;14;2.8
+not LOCALHOSTIP or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;271;40;24;16;3.2
+(not LOCALHOSTIP or (not IP and not LOCALHOSTIP)) or (((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with JBool, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;261;38;23;15;3.0
+((not IP or not LOCALHOSTIP) and (not LOCALHOST or not LOCALHOSTIP)) and (not LOCALHOSTIP or not SECURE_SSL_REDIRECT)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Repaired Django with QM, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;219;32;19;13;2.6
+((not SECURE_SSL_REDIRECT and not LOCALHOST) and not IP) or not LOCALHOSTIP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and not IP
+
+Mutated Django by SL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not CSRF_COOKIE_HTTPONLY
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;2088;294;185;109;18.166666666666668
+((((LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+((((IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+((((LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(((not CSRF_COOKIE_HTTPONLY or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+((((not DEBUG implies LOCALHOSTIP) or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(((not SECURE_SSL_REDIRECT or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with onlySelection, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;525;74;45;29;4.833333333333333
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((not CSRF_COOKIE_HTTPONLY or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with ATGT, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;451;63;38;25;4.166666666666667
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+((not CSRF_COOKIE_HTTPONLY or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with Espresso, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;525;74;45;29;4.833333333333333
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((not CSRF_COOKIE_HTTPONLY or (((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST) and DEBUG)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with JBool, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;525;74;45;29;4.833333333333333
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((not CSRF_COOKIE_HTTPONLY or (((not IP and not LOCALHOST) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not IP and not LOCALHOST) and not SECURE_SSL_REDIRECT) and LOCALHOSTIP)) or (((not IP and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG
+
+Repaired Django with QM, mutated by SL in 5 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 6;451;63;38;25;4.166666666666667
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+(((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not LOCALHOST) and DEBUG) or (((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and DEBUG) and not IP)) or (((not SECURE_SSL_REDIRECT and LOCALHOSTIP) and not LOCALHOST) and not IP)) or not CSRF_COOKIE_HTTPONLY
+not DEBUG implies LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not LOCALHOST) and DEBUG
+
+Mutated Django by SL:
+IP implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;596;83;51;32;6.4
+(IP implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+not SECURE_SSL_REDIRECT or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+(not DEBUG implies LOCALHOSTIP) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;266;39;23;16;3.2
+(IP implies (not IP and not LOCALHOSTIP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;231;34;20;14;2.8
+not IP or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;265;40;24;16;3.2
+(not IP or (not IP and not LOCALHOSTIP)) or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with JBool, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;231;34;20;14;2.8
+not IP or (((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Repaired Django with QM, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;231;34;20;14;2.8
+(((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and not LOCALHOST) and DEBUG) or not IP
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOST and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG
+
+Mutated Django by SL:
+LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;587;83;51;32;6.4
+(LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(not DEBUG implies LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;39;23;16;3.2
+(LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;285;39;23;16;3.2
+(LOCALHOST implies (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;284;40;24;16;3.2
+(not LOCALHOST or (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with JBool, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;284;40;24;16;3.2
+(not LOCALHOST or (((not IP and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)) or (not IP and not SECURE_HSTS_INCLUDE_SUBDOMAINS)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with QM, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;284;40;24;16;3.2
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and DEBUG) and not IP) or (not SECURE_HSTS_INCLUDE_SUBDOMAINS and not IP)) or not LOCALHOST
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Mutated Django by SL:
+LOCALHOST implies (not CSRF_COOKIE_SECURE and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;584;83;51;32;6.4
+(LOCALHOST implies (not CSRF_COOKIE_SECURE and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(LOCALHOSTIP implies (not IP and not LOCALHOST)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+not SECURE_SSL_REDIRECT or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+(not DEBUG implies LOCALHOSTIP) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;282;39;23;16;3.2
+(LOCALHOST implies (not CSRF_COOKIE_SECURE and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;282;39;23;16;3.2
+(LOCALHOST implies (not CSRF_COOKIE_SECURE and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;281;40;24;16;3.2
+(not LOCALHOST or (not CSRF_COOKIE_SECURE and not LOCALHOSTIP)) or (((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with JBool, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;281;40;24;16;3.2
+(not LOCALHOST or (not CSRF_COOKIE_SECURE and not LOCALHOSTIP)) or (((not IP and not LOCALHOSTIP) and not SECURE_SSL_REDIRECT) and DEBUG)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Repaired Django with QM, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;281;40;24;16;3.2
+((((not SECURE_SSL_REDIRECT and not LOCALHOSTIP) and DEBUG) and not IP) or (not CSRF_COOKIE_SECURE and not LOCALHOSTIP)) or not LOCALHOST
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((not LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and DEBUG
+
+Mutated Django by SL:
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+LOCALHOSTIP implies (not IP and not CSRF_COOKIE_SECURE)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: * null
+
+Repaired Django with Naive, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;597;83;51;32;6.4
+(LOCALHOST implies (not IP and not LOCALHOSTIP)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)
+(IP implies (not LOCALHOST and not LOCALHOSTIP)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)
+(LOCALHOSTIP implies (not IP and not CSRF_COOKIE_SECURE)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)
+not SECURE_SSL_REDIRECT or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)
+(not DEBUG implies LOCALHOSTIP) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)
+Alpha: + ((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST
+
+Repaired Django with onlySelection, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;279;39;23;16;3.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+(LOCALHOSTIP implies (not IP and not CSRF_COOKIE_SECURE)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST
+
+Repaired Django with ATGT, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;261;37;22;15;3.0
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+(LOCALHOSTIP implies (not IP and not CSRF_COOKIE_SECURE)) or ((not SECURE_SSL_REDIRECT and not IP) and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST
+
+Repaired Django with Espresso, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;278;40;24;16;3.2
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+(not LOCALHOSTIP or (not IP and not CSRF_COOKIE_SECURE)) or (((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST
+
+Repaired Django with JBool, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;317;44;27;17;3.4
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+(((not CSRF_COOKIE_SECURE or not LOCALHOST) or not LOCALHOSTIP) and ((not CSRF_COOKIE_SECURE or not LOCALHOSTIP) or not SECURE_SSL_REDIRECT)) and (not IP or not LOCALHOSTIP)
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST
+
+Repaired Django with QM, mutated by SL in 1 steps.
+StatsOriginal: 5;190;28;16;12;2.4 StatsRepaired: 5;260;38;23;15;3.0
+LOCALHOST implies (not IP and not LOCALHOSTIP)
+IP implies (not LOCALHOST and not LOCALHOSTIP)
+(((not SECURE_SSL_REDIRECT and not LOCALHOST) and not IP) or (not CSRF_COOKIE_SECURE and not IP)) or not LOCALHOSTIP
+not SECURE_SSL_REDIRECT
+not DEBUG implies LOCALHOSTIP
+Alpha: + ((LOCALHOSTIP and not SECURE_SSL_REDIRECT) and not IP) and not LOCALHOST
+

@@ -1,0 +1,6 @@
+idconf,mutation,steps,method,type,flit,feat,lit,op,chars,lev,simpl,timeSelection,timeSimplification
+1,REMOVE_CONSTRAINT,3,Naïve,AND,9,24,64,91,1212,80.0,10.0,0,0
+1,REMOVE_CONSTRAINT,3,OnlySelec,AND,9,24,64,91,1206,83.0,-9.0,15,0
+1,REMOVE_CONSTRAINT,3,ATGT,AND,9,24,64,91,1206,83.0,-9.0,0,1171
+1,REMOVE_CONSTRAINT,3,Espresso,AND,9,24,64,92,1204,84.0,-9.0,11,63
+1,REMOVE_CONSTRAINT,3,JBool,AND,9,24,64,92,1204,86.0,-9.0,0,22

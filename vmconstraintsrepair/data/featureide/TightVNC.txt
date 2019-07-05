@@ -1,0 +1,12 @@
+Base
+ClipboardFeat or RecordingFeat or BOpt or OptionsMenuFeatures
+BOpt => (AboutButtuonFeat or AltTabButtonFeat or RefreshButtonFeat or CtrlAltDelButtonFeat or RecordButtonFeat or ClipboardButtonFeat or OptionsButtonFeat or DisconnectButtonFeat)
+(AboutButtuonFeat or AltTabButtonFeat or RefreshButtonFeat or CtrlAltDelButtonFeat or RecordButtonFeat or ClipboardButtonFeat or OptionsButtonFeat or DisconnectButtonFeat) => BOpt 
+OptionsFeat => OptionsMenuFeatures
+OptionsMenuFeatures => OptionsFeat
+MOpt => OptionsMenuFeatures
+MOpt => (OpEncodingFeat or OpCompressionFeat or OpJPEGqualityFeat or OpCursorShapeFeat or OpCopyRectFeat or OpRestrictedColorsFeat or OpMouse23Feat or OpViewFeat or OpShareFeat)
+(OpEncodingFeat or OpCompressionFeat or OpJPEGqualityFeat or OpCursorShapeFeat or OpCopyRectFeat or OpRestrictedColorsFeat or OpMouse23Feat or OpViewFeat or OpShareFeat) => MOpt
+RecordButtonFeat => RecordingFeat
+OptionsButtonFeat => OptionsFeat
+ClipboardButtonFeat => ClipboardFeat

@@ -1,0 +1,20 @@
+not (a && b) && ((d && not e && not f) || (not d && e && not f) || (not d  && not e && not f)) && (a && c && (d || e) && h || a && (d || e) && not h || b && (e || f ))
+(a && ((c || d || e) && g || a && f || c && (f || g || h || i)) || (a || b) && (c || d || e) && i) && not(a && b) && not (c && d) && not (c && e) && not (d && e) && not ( f  && g) && not ( f &&  h)&& not  ( f  && i)&& not  (g && h)&& not  (h && i)
+(a && (not d || not e || d && e &&( not f && g && h && not i || not g && h && i) && ( not f && g && l && k || not g && not i && k)) || ( not f && g && h && not i || not g && h && i) && ( not f && g && l && k || not g && not i && k) && (b || c && not m || f)) && (a && not b && not c || not a && b && not c || not a && not b && c)
+a && (not b || not c) && d || e
+a && (not b || not c || b && c && not (not f && g && h && not i || not g && h && i) && not (not f && g && l && k || not g && not i && k)) || f
+(not a && b || a && not b) && not (c && d) && (f && not g && not h || not f && g && not h || not f && not g && not h) && not (j && k) && ((a && c || b && d) && e && (f || (i &&(g && j || h && k))))
+(not a && b || a && not b) && not (c && d) && not (g && h) && (j && k) && ((a && c || b && d) && e && (not i || not g && not k || not j && (not h || not k)))
+(not a && b || a && not b) && not (c && d) && not (g && h) && ((a && c || b && d) && e && (f && g || not f && h))
+not (c && d) && (not e && f && not g && not a && (b && c || not b && d))
+a && not b && not c && d && not e && f && (g || not g && (h || i)) && not (j && k || not j && l || m)
+a && not b && not c && ( not (f && (g || not g && (h || i))) || f && (g || not g && (h || i)) && not d && not e) && not (j && k || not j && l && not m)
+a && b && not c && (f && (g || g && (h || i)) && (((not e) && not n) || d) || not n) && ((j && k) || (not j && l && not m))
+a || b || c || not c && not d && e && f && not g && not h || i &&(j || k) && not l
+a && c && (d || e) && h || a && (d || e) && not h || b && (e || f)
+a && ((c || d || e) && g || a && f || c && (f || g || h || i)) || (a || b) && (c || d || e) && i
+a && (not d || not e || d && e && not (not f && g && h && not i || not g && h && i) && not (not f && g && l && k || not g && not i && k)) || not (not f && g && h && not i || not g && h && i) && not (not f && g && l && k || not g && not i && k) && (b || c && not m || f)
+(a && c || b && d) && e && (f || (i && (g && j || h && k)))
+(a && c || b && d) && e && (not i || not g && not k || not j && (not h || not k))
+(a && c || b && d) && e && (f && g || not f && h)
+not e && f && not g && not a && (b && c || not b && d)

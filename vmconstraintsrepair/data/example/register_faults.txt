@@ -1,0 +1,336 @@
+Initial Model: 
+Parameters: [CREDIT, NEW, NOK, SELF_CHECKOUT]
+(SELF_CHECKOUT and NEW) implies CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * null
+
+0
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((NEW and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (NEW and NOK) and not SELF_CHECKOUT
+1 0
+1
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((CREDIT and not NEW) and NOK) and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((CREDIT and not NEW) and NOK) and SELF_CHECKOUT
+2 0
+2
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(CREDIT and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * CREDIT and NOK
+3 0
+3
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((CREDIT and NEW) and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * (CREDIT and NEW) and NOK
+4 0
+4
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((not CREDIT and not NEW) and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((not CREDIT and not NEW) and NOK) and not SELF_CHECKOUT
+5 0
+5
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((CREDIT and not NEW) and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((CREDIT and not NEW) and NOK) and not SELF_CHECKOUT
+6 0
+6
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + (NEW and not NOK) and SELF_CHECKOUT
+6 1
+7
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((not CREDIT and not NEW) and NOK) and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((not CREDIT and not NEW) and NOK) and SELF_CHECKOUT
+7 1
+8
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not CREDIT and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not CREDIT and not NOK) and not SELF_CHECKOUT
+8 1
+9
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + (not CREDIT and not NOK) and SELF_CHECKOUT
+8 2
+10
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((CREDIT and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (CREDIT and NOK) and not SELF_CHECKOUT
+9 2
+11
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not NEW and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * not NEW and NOK
+10 2
+12
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((CREDIT and NEW) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (CREDIT and NEW) and not SELF_CHECKOUT
+11 2
+13
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((CREDIT and NEW) and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((CREDIT and NEW) and not NOK) and not SELF_CHECKOUT
+12 2
+14
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not NEW and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * not NEW and not SELF_CHECKOUT
+13 2
+15
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + ((CREDIT and NEW) and not NOK) and SELF_CHECKOUT
+13 3
+16
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + ((CREDIT and not NEW) and not NOK) and SELF_CHECKOUT
+13 4
+17
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * not SELF_CHECKOUT
+14 4
+18
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((CREDIT and not NEW) and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((CREDIT and not NEW) and not NOK) and not SELF_CHECKOUT
+15 4
+19
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((CREDIT and not NEW) and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * (CREDIT and not NEW) and NOK
+16 4
+20
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((CREDIT and NEW) and NOK) and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((CREDIT and NEW) and NOK) and SELF_CHECKOUT
+17 4
+21
+not SELF_CHECKOUT or NOK
+Alpha: + (not CREDIT and NEW) and SELF_CHECKOUT
+17 5
+22
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not CREDIT and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not CREDIT and NOK) and not SELF_CHECKOUT
+18 5
+23
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + not NOK and SELF_CHECKOUT
+18 6
+24
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((not CREDIT and NEW) and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((not CREDIT and NEW) and not NOK) and not SELF_CHECKOUT
+19 6
+25
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not NEW and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not NEW and not NOK) and not SELF_CHECKOUT
+20 6
+26
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((not CREDIT and NEW) and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((not CREDIT and NEW) and NOK) and not SELF_CHECKOUT
+21 6
+27
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not NEW and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not NEW and NOK) and not SELF_CHECKOUT
+22 6
+28
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + (not NEW and not NOK) and SELF_CHECKOUT
+22 7
+29
+SELF_CHECKOUT implies NOK
+Alpha: + ((not CREDIT and NEW) and NOK) and SELF_CHECKOUT
+22 8
+30
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + ((not CREDIT and not NEW) and not NOK) and SELF_CHECKOUT
+22 9
+31
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((NEW and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (NEW and not NOK) and not SELF_CHECKOUT
+23 9
+32
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((CREDIT and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (CREDIT and not NOK) and not SELF_CHECKOUT
+24 9
+33
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((CREDIT and NEW) and NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((CREDIT and NEW) and NOK) and not SELF_CHECKOUT
+25 9
+34
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(((not CREDIT and not NEW) and not NOK) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * ((not CREDIT and not NEW) and not NOK) and not SELF_CHECKOUT
+26 9
+35
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(CREDIT and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * CREDIT and not SELF_CHECKOUT
+27 9
+36
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NOK) and not(not NOK and not SELF_CHECKOUT)
+Alpha: * not NOK and not SELF_CHECKOUT
+28 9
+37
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not CREDIT and not NEW) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not CREDIT and not NEW) and not SELF_CHECKOUT
+29 9
+38
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not CREDIT and NEW) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not CREDIT and NEW) and not SELF_CHECKOUT
+30 9
+39
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((CREDIT and not NEW) and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (CREDIT and not NEW) and not SELF_CHECKOUT
+31 9
+40
+(SELF_CHECKOUT and NEW) implies CREDIT
+Alpha: + (CREDIT and not NOK) and SELF_CHECKOUT
+31 10
+41
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NOK) and not(NOK and not SELF_CHECKOUT)
+Alpha: * NOK and not SELF_CHECKOUT
+32 10
+42
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not CREDIT and not NEW) and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * (not CREDIT and not NEW) and NOK
+33 10
+43
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not NEW and NOK) and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not NEW and NOK) and SELF_CHECKOUT
+34 10
+44
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not CREDIT and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * not CREDIT and not SELF_CHECKOUT
+35 10
+45
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((CREDIT and NOK) and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (CREDIT and NOK) and SELF_CHECKOUT
+36 10
+46
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(NEW and not SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * NEW and not SELF_CHECKOUT
+37 10
+47
+not SELF_CHECKOUT or NOK
+Alpha: + ((not CREDIT and NEW) and not NOK) and SELF_CHECKOUT
+37 11
+48
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NOK) and not NOK
+Alpha: * NOK
+37 12
+49
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not CREDIT and not NEW)
+SELF_CHECKOUT implies NOK
+Alpha: * not CREDIT and not NEW
+37 13
+50
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not CREDIT)
+SELF_CHECKOUT implies NOK
+Alpha: * not CREDIT
+37 14
+51
+((SELF_CHECKOUT and NEW) implies CREDIT) and not NEW
+SELF_CHECKOUT implies NOK
+Alpha: * NEW
+37 15
+52
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(NEW and not NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * NEW and not NOK
+37 16
+53
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(CREDIT and NEW)
+SELF_CHECKOUT implies NOK
+Alpha: * CREDIT and NEW
+37 17
+54
+((SELF_CHECKOUT and NEW) implies CREDIT) and not CREDIT
+SELF_CHECKOUT implies NOK
+Alpha: * CREDIT
+37 18
+55
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not CREDIT and NEW)
+SELF_CHECKOUT implies NOK
+Alpha: * not CREDIT and NEW
+37 19
+56
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not NEW and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * not NEW and SELF_CHECKOUT
+37 20
+57
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NOK) and not(NOK and SELF_CHECKOUT)
+Alpha: * NOK and SELF_CHECKOUT
+37 21
+58
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not NEW)
+SELF_CHECKOUT implies NOK
+Alpha: * not NEW
+37 22
+59
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(CREDIT and not NEW)
+SELF_CHECKOUT implies NOK
+Alpha: * CREDIT and not NEW
+37 23
+60
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not CREDIT and not NEW) and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not CREDIT and not NEW) and SELF_CHECKOUT
+37 24
+61
+(SELF_CHECKOUT and NEW) implies CREDIT
+(SELF_CHECKOUT implies NOK) and not(not NOK)
+Alpha: * not NOK
+37 25
+62
+((SELF_CHECKOUT and NEW) implies CREDIT) and not((not CREDIT and NOK) and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * (not CREDIT and NOK) and SELF_CHECKOUT
+37 26
+63
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not CREDIT and SELF_CHECKOUT)
+SELF_CHECKOUT implies NOK
+Alpha: * not CREDIT and SELF_CHECKOUT
+37 27
+64
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(CREDIT and not NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * CREDIT and not NOK
+37 28
+65
+((SELF_CHECKOUT and NEW) implies CREDIT) and not SELF_CHECKOUT
+SELF_CHECKOUT implies NOK
+Alpha: * SELF_CHECKOUT
+37 29
+66
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not CREDIT and NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * not CREDIT and NOK
+37 30
+67
+((SELF_CHECKOUT and NEW) implies CREDIT) and not(not NEW and not NOK)
+SELF_CHECKOUT implies NOK
+Alpha: * not NEW and not NOK
+37 31
+68

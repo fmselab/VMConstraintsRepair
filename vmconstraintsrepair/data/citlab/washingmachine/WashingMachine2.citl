@@ -1,0 +1,11 @@
+Model WashingMachine
+
+Parameters:
+	Boolean HalfLoad;
+	Enumerative Rinse { Delicate Drain Wool };
+	Enumerative Spin { Low Mid High };
+end
+Constraints:
+	# !(HalfLoad => Spin != Spin.High) #
+	# Rinse==Rinse.Delicate => HalfLoad #
+end

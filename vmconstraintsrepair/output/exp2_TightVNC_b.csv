@@ -1,0 +1,3 @@
+id,step,method,type,mutation,flit,BFED,BFCD,constraints,literals,timeSelection,timeSimplification,timeTotal
+0,32,ATGT,32,RC,3.78125,0.0,8.1,11.0,63.53125,3.46875,1805.0625,5787.9
+0,176,ATGT,6,RL,11.9375,0.0,207.8,11.994318181818182,551.1988636363636,1.875,4681.034090909091,82420.2

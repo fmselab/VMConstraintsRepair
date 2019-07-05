@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<featureModel>
+		<properties/>
+		<struct>
+			<and abstract="true" mandatory="true" name="Register">
+				<feature name="USD"/>
+				<feature name="NEW_CLIENT"/>
+				<and name="CREDIT_CARD">
+					<feature name="SELF_CHECKOUT"/>
+				</and>
+			</and>
+		</struct>
+		<constraints>
+			<rule>
+				<imp>
+					<conj>
+						<var>SELF_CHECKOUT</var>
+						<var>NEW_CLIENT</var>
+					</conj>
+					<var>USD</var>
+				</imp>
+			</rule>
+		</constraints>
+		<calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+		<comments/>
+		<featureOrder userDefined="false"/>
+	</featureModel>

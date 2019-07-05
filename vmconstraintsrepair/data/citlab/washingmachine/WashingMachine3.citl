@@ -1,0 +1,16 @@
+// QUESTA CAUSA FAIULREINDUCING
+//
+// (HalfLoad=1, Rinse=0, Spin=1)
+// (HalfLoad=1, Rinse=0, Spin=0)
+//
+Model WashingMachine
+Parameters:
+	Boolean HalfLoad ;
+	Enumerative Rinse { Delicate Drain Wool } ;
+	Enumerative Spin { Low Mid High } ;
+end
+Constraints:
+	# HalfLoad => Spin!=Spin.High #
+	# Rinse==Rinse.Delicate => HalfLoad #
+	# Rinse!=Rinse.Delicate #
+end

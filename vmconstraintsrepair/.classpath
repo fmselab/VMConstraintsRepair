@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="libs/jbool_expressions-1.10-SNAPSHOT.jar"/>
 	<classpathentry kind="src" path="experiments"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

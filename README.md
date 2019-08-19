@@ -1,9 +1,29 @@
 # VMConstraintsRepair
-Data set and code for the paper:
+This repository contains the data set and code for the paper 
+[*A Process for Fault-driven Repair of Constraints Among Features*](https://dl.acm.org/citation.cfm?doid=3307630.3342413)
+(Paolo Arcaini, Angelo Gargantini, and Marco Radavelli) in 2nd International Workshop on Variability and Evolution of Software-intensive Systems (VariVolution 2019)
 
-P. Arcaini, A. Gargantini, M. Radavelli<br/>
-A Process for Fault-driven Repair of Constraints Among Features<br/>
-in 2nd International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution 2019), Paris, France, September 9-13, 2019 (to appear)
+If you use this tool for academic research, please cite it as:
+```
+@inproceedings{arcaini2019varivolution
+	author = {Arcaini, Paolo and Gargantini, Angelo and Radavelli, Marco},
+	title = {A Process for Fault-driven Repair of Constraints Among Features},
+	booktitle = {Proceedings of the 23rd International Systems and Software Product Line Conference - Volume B},
+	series = {SPLC '19},
+	year = {2019},
+	isbn = {978-1-4503-6668-7},
+	location = {Paris, France},
+	pages = {71:1--71:9},
+	articleno = {71},
+	numpages = {9},
+	url = {http://doi.acm.org/10.1145/3307630.3342413},
+	doi = {10.1145/3307630.3342413},
+	acmid = {3342413},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {automatic repair, fault, system evolution, variability model},
+} 
+```
 
 ### How to reproduce experiments
 The code is an eclipse project, containing all its dependencies as JAR libraries in the [`libs`](vmconstraintsrepair/libs/) folder.
